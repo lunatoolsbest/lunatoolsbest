@@ -2,6 +2,7 @@
 <h3 align="center">Active python developer from poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lunatoolsbest&label=Profile%20views&color=0e75b6&style=flat" alt="lunatoolsbest" /> </p>
+<p align="left"> <img src="https://img.shields.io/badge/best_tools_on_market-blue" alt="lunatoolsbest" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lunatoolsbest" alt="lunatoolsbest" /></a> </p>
 
